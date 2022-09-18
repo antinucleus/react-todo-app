@@ -1,2 +1,2 @@
 export { Layout } from './components';
-export { Todo } from './routes';
+export { Todo, CreateTodo, UpdateTodo } from './routes';
